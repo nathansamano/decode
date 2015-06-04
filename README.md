@@ -1,2 +1,4 @@
 # decode
-Decoding problem
+Decoding problem POC
+
+Run with node
